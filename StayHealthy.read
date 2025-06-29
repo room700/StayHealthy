@@ -1,0 +1,24 @@
+# StayHealthy 🩺💚
+
+StayHealthy is a modern and user-friendly medical appointment booking web app designed to simplify how patients connect with doctors. With a clean interface, soft colors, and a focus on accessibility, the platform allows users to browse doctors, book appointments, receive notifications, submit reviews, and manage their personal profile — all in one place.
+
+## 🌿 Key Features
+- 🧑‍⚕️ Browse doctors and view specialties
+- 📅 Book appointments easily online
+- 🔔 Get instant notifications and updates
+- 🌟 Submit one-time reviews after visits
+- 👤 Manage and update your personal profile
+- 🔐 Secure login and registration system
+- 🙈 Friendly 404 page with a human touch
+
+## 🎨 Design & Theme
+The UI uses calming tones like soft sky blue (`#D8ECF3`) and mint green (`#B2E2D0`) with white space and rounded elements for a soothing, professional look. Icons are friendly and clean, such as stethoscopes, calendars, hearts, and bells.
+
+### 🖌️ Wireframe Design (Prototype)
+The initial layout and structure of the web app was designed using Visily.  
+🔗 [View Wireframes on Visily](https://app.visily.ai/projects/4d96ed46-19a2-4b01-b1ce-1d78d482fb0e/boards/2005540/presenter?play-mode=All+screens)
+
+## ⚙️ Tech Stack
+- HTML & CSS
+- JavaScript (React)
+- Git & GitHub for version control
